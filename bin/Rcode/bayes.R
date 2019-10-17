@@ -1,7 +1,7 @@
 
 
 
-#https://stats.stackexchange.com/questions/130389/bayesian-equivalent-of-two-sample-t-test
+
 set.seed(7)
 
 #create samples
