@@ -1,0 +1,23 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1550931981771.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "3578014933",
+    "id" : "95481A54",
+    "lastKnownWriteTime" : 1550933560,
+    "last_content_update" : 1550933560108,
+    "path" : "~/Dropbox/PRUEBAS_DATA_SCIENCE/CLARITY/Rcode/power.R",
+    "project_path" : "Rcode/power.R",
+    "properties" : {
+        "cursorPosition" : "17,57",
+        "scrollLine" : "0",
+        "tempName" : "Untitled1"
+    },
+    "relative_order" : 5,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}

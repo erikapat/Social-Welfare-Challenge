@@ -1,0 +1,23 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1550928881851.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "108909305",
+    "id" : "24E7328E",
+    "lastKnownWriteTime" : 1551205705,
+    "last_content_update" : 1551205705075,
+    "path" : "~/Dropbox/PRUEBAS_DATA_SCIENCE/CLARITY/Rcode/SIMULATION.r",
+    "project_path" : "Rcode/SIMULATION.r",
+    "properties" : {
+        "cursorPosition" : "53,0",
+        "scrollLine" : "39",
+        "tempName" : "Untitled1"
+    },
+    "relative_order" : 4,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}

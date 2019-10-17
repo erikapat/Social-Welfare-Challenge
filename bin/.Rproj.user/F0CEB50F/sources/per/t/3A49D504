@@ -1,0 +1,23 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1550825581284.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "825376736",
+    "id" : "3A49D504",
+    "lastKnownWriteTime" : 1550917632,
+    "last_content_update" : 1550917632630,
+    "path" : "~/Dropbox/PRUEBAS_DATA_SCIENCE/CLARITY/Rcode/verifications.R",
+    "project_path" : "Rcode/verifications.R",
+    "properties" : {
+        "cursorPosition" : "15,0",
+        "scrollLine" : "0",
+        "tempName" : "Untitled1"
+    },
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}
